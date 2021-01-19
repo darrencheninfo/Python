@@ -1,3 +1,4 @@
+#this is life WITHOUT regular expressions
 def isPhoneNumber(text):
     if len(text) != 12:
         return False  #not phone number sized
